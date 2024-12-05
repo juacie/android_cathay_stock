@@ -1,11 +1,4 @@
-# android_cathy_stock 
-For cathy stock testing
----
-title: '國泰測驗'
-disqus: Jack Yen
----
-
-Cathy Stock
+Cathay Stock
 ===
 ![platform](https://img.shields.io/badge/platform-android-green)
 ![version](https://img.shields.io/badge/app-v1.0.0(1)-blue)
